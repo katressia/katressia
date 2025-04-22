@@ -21,9 +21,9 @@ I am a Full Stack Developer based in St Louis, MO. I have a passion for technolo
 
 ### 🛠️ Languages and Tools:
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode," />
+</p>
 
 
 <p align="center">
